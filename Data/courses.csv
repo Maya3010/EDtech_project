@@ -1,0 +1,201 @@
+course_id,course_name,category,price,duration_weeks
+1,Mention Course,Business,14678,13
+2,Decision Course,AI,14660,8
+3,Case Course,Data Science,8405,11
+4,Step Course,Web Dev,3502,9
+5,Market Course,AI,2745,19
+6,Music Course,Business,4612,15
+7,Forget Course,Design,3508,20
+8,Media Course,AI,3770,11
+9,Eight Course,Design,13971,7
+10,Safe Course,Data Science,3961,20
+11,Always Course,Data Science,11787,6
+12,Glass Course,Business,14972,21
+13,Father Course,Design,9751,19
+14,This Course,Design,12725,5
+15,Election Course,Business,5658,16
+16,Sister Course,AI,8977,4
+17,Writer Course,Business,8609,6
+18,Add Course,Data Science,2465,4
+19,Probably Course,Design,4069,5
+20,Seem Course,Web Dev,4443,22
+21,May Course,Web Dev,11424,6
+22,Program Course,Data Science,10336,4
+23,Career Course,Design,8563,12
+24,Maintain Course,Design,9516,11
+25,Mission Course,Business,12544,8
+26,Attorney Course,AI,11999,4
+27,Area Course,Business,5048,18
+28,Find Course,Web Dev,6042,20
+29,Everyone Course,Design,6139,18
+30,With Course,AI,6202,11
+31,Player Course,Business,8124,6
+32,Expert Course,AI,14437,12
+33,Fact Course,Web Dev,9773,23
+34,Wish Course,AI,3287,17
+35,Gun Course,Design,10301,9
+36,Amount Course,AI,9503,23
+37,Speech Course,AI,6819,7
+38,Nearly Course,Business,4790,15
+39,Second Course,AI,14615,6
+40,Race Course,AI,2861,6
+41,Possible Course,Web Dev,10652,20
+42,Conference Course,AI,3104,9
+43,Wish Course,Business,7374,18
+44,Page Course,Business,2743,14
+45,Exactly Course,Design,4410,21
+46,Realize Course,Web Dev,13984,6
+47,Question Course,Data Science,6993,20
+48,Customer Course,Design,10634,14
+49,Statement Course,AI,3833,9
+50,Room Course,Web Dev,2885,8
+51,Reality Course,Design,5604,13
+52,Capital Course,Business,7357,5
+53,Sound Course,Web Dev,14548,18
+54,Face Course,Web Dev,14567,14
+55,Field Course,AI,9089,17
+56,American Course,Web Dev,5221,17
+57,Health Course,Web Dev,10343,6
+58,Reach Course,Data Science,8937,19
+59,Discuss Course,AI,3596,17
+60,Focus Course,Web Dev,11863,13
+61,Usually Course,Web Dev,11726,11
+62,Act Course,Data Science,11757,15
+63,Result Course,Data Science,11142,8
+64,Nation Course,Business,13106,16
+65,Old Course,AI,4492,15
+66,Soldier Course,Data Science,11533,6
+67,Development Course,Web Dev,10923,20
+68,Conference Course,Data Science,6333,23
+69,Personal Course,Design,2538,8
+70,Son Course,Business,10163,9
+71,Person Course,Business,2768,16
+72,For Course,AI,4856,9
+73,Over Course,Business,13917,16
+74,Save Course,AI,8905,18
+75,Kitchen Course,Design,4121,5
+76,See Course,Web Dev,7553,14
+77,West Course,Design,11926,19
+78,Sing Course,AI,14583,21
+79,Performance Course,AI,2013,5
+80,Best Course,AI,6707,13
+81,Most Course,Web Dev,13866,16
+82,Tree Course,AI,6490,11
+83,Nation Course,Design,10382,10
+84,Day Course,Web Dev,7993,19
+85,Southern Course,Design,4864,20
+86,Social Course,Web Dev,9605,12
+87,Majority Course,AI,6102,11
+88,Enter Course,Web Dev,3104,23
+89,Coach Course,Data Science,4812,8
+90,Defense Course,Design,8131,8
+91,Give Course,Data Science,2651,16
+92,Need Course,Data Science,8628,19
+93,Person Course,AI,11572,14
+94,Where Course,AI,9831,18
+95,East Course,Data Science,2801,20
+96,Drop Course,Web Dev,6544,18
+97,Real Course,AI,8428,15
+98,Look Course,Design,12313,7
+99,Plan Course,Data Science,12176,7
+100,Local Course,Design,6140,19
+101,White Course,Design,3552,18
+102,Eye Course,Design,4792,11
+103,Hotel Course,Data Science,4723,23
+104,Note Course,Business,7576,11
+105,Five Course,AI,4022,14
+106,Safe Course,Design,6670,20
+107,Area Course,Data Science,11622,6
+108,Rise Course,Business,6188,10
+109,Left Course,Data Science,12705,15
+110,Place Course,AI,2603,4
+111,So Course,Data Science,9028,14
+112,Almost Course,Web Dev,9150,8
+113,Beat Course,Web Dev,8896,9
+114,Ever Course,Design,10518,17
+115,Leg Course,Data Science,14030,20
+116,Analysis Course,Data Science,7962,6
+117,Firm Course,Design,9978,7
+118,Theory Course,Design,4775,4
+119,Civil Course,Business,5639,7
+120,Four Course,Data Science,10782,17
+121,Certainly Course,AI,3438,10
+122,Less Course,AI,13762,10
+123,Approach Course,AI,2850,4
+124,Until Course,Design,2439,5
+125,That Course,Design,9800,6
+126,Low Course,Design,8857,21
+127,At Course,AI,8575,14
+128,Learn Course,Business,13187,15
+129,Six Course,Web Dev,14615,17
+130,Start Course,Data Science,11857,12
+131,Have Course,Web Dev,4908,13
+132,Health Course,Data Science,7193,16
+133,Minute Course,Design,3257,6
+134,Morning Course,AI,3544,12
+135,Question Course,Web Dev,3905,5
+136,Owner Course,Design,13871,11
+137,Business Course,Data Science,3815,10
+138,Together Course,Web Dev,4276,12
+139,Pass Course,Web Dev,13508,16
+140,Energy Course,Web Dev,3450,10
+141,Thought Course,Web Dev,12239,10
+142,Plan Course,Web Dev,5544,4
+143,Hour Course,Design,6906,5
+144,Tend Course,Data Science,5634,20
+145,Service Course,Data Science,7848,13
+146,Appear Course,Business,10365,18
+147,Executive Course,AI,11290,19
+148,Occur Course,Web Dev,3122,16
+149,Head Course,Data Science,12752,11
+150,Out Course,AI,12234,12
+151,Year Course,AI,9284,4
+152,Father Course,Design,13970,7
+153,Perform Course,Web Dev,7352,21
+154,Face Course,Business,4176,4
+155,Affect Course,AI,12613,6
+156,Serve Course,Design,14523,13
+157,Money Course,Web Dev,6837,5
+158,Official Course,Data Science,8333,21
+159,Resource Course,Business,13964,5
+160,Several Course,Web Dev,8311,16
+161,Before Course,Design,11884,12
+162,Person Course,Design,2290,5
+163,At Course,Design,14123,5
+164,Before Course,Design,9508,8
+165,Leave Course,Design,3418,17
+166,Marriage Course,Business,7593,6
+167,Future Course,AI,7310,17
+168,Create Course,AI,3988,4
+169,Issue Course,Data Science,10759,12
+170,Effect Course,AI,7638,19
+171,Work Course,Design,7170,20
+172,Even Course,AI,5038,11
+173,Ok Course,AI,12537,18
+174,Might Course,Design,13335,11
+175,Drop Course,Business,4303,10
+176,Small Course,Design,2308,12
+177,South Course,AI,4138,5
+178,Federal Course,AI,4196,13
+179,Security Course,Data Science,2461,8
+180,Foot Course,Design,14922,19
+181,There Course,Data Science,5820,4
+182,Design Course,Data Science,9959,9
+183,Which Course,Web Dev,6732,13
+184,Drug Course,Data Science,2645,13
+185,Word Course,AI,14805,22
+186,Claim Course,AI,8014,16
+187,Surface Course,Web Dev,11588,22
+188,Present Course,Web Dev,5268,6
+189,Around Course,Design,14477,16
+190,Result Course,Web Dev,14066,7
+191,Lay Course,Business,9915,11
+192,Live Course,AI,14366,15
+193,Fear Course,AI,11762,20
+194,Star Course,Web Dev,2815,4
+195,Listen Course,Web Dev,3905,5
+196,Enjoy Course,AI,10040,12
+197,Mind Course,Web Dev,14359,4
+198,Sport Course,Design,12282,22
+199,Shoulder Course,Web Dev,6898,20
+200,Responsibility Course,Web Dev,5204,8
